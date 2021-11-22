@@ -21,7 +21,7 @@ class TestGreaterThan(unittest.TestCase):
         a = 3
         b = 3
         result = greaterthan(a,b)
-        self.assertEqual(result, 1)
+        self.assertEqual(result, 0)
 
 
 if __name__ == '__main__':
