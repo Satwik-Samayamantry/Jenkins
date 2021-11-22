@@ -2,7 +2,7 @@
 # Test case for adding two numbers
 import unittest
 
-from 1 import greaterthan
+from code import greaterthan
 
 class TestGreaterThan(unittest.TestCase):
     def test_list_int(self):
